@@ -1,6 +1,6 @@
 const { Server } = require("socket.io");
 
-const io = new Server({ cors: "http://localhost:5173" });
+const io = new Server({ cors: "https://stellular-sawine-179873.netlify.app" });
 // cors:"도메인" 을 입력해줌으로써, 이 서버가 저 지정된 도메인과만 communicate 하도록 설정해줌.
 
 let onlineUsers = [];
