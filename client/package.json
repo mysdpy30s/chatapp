@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "react-bootstrap": "^2.8.0",
+    "react-input-emoji": "^5.4.1"
+  }
+}
